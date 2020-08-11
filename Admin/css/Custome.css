@@ -1,0 +1,70 @@
+﻿
+.visitwebsite{
+    color:#fff;
+    margin-left:10px;
+    font-size:large;
+}
+.visitwebsite:hover{
+    color:black;
+}
+    .panel-changepassword {
+    border-color: #CC0033;
+	background-color:#fff;
+    
+}
+
+
+   body {
+    color: #262626;
+    font-size: 14px;
+    line-height: 1.8;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+ 
+   
+}
+   .panel-changepassword>.panel-heading {
+	color: #fff;
+	background-color: #CC0033;
+	border-color: #fff;
+	text-align:center;
+    padding:5px;
+}
+
+ .changepassword {
+	background-color: #CC0033;
+	outline: none;
+	color: #fff;
+	font-size: 14px;
+	height: auto;
+	font-weight: normal;
+	padding: 10px 5px;
+	text-transform: uppercase;
+	border-color: #fff;
+    border-radius:2px;
+}
+.changepassword:hover,
+.changepassword:focus {
+	color: #fff;
+	background-color: #CC0033;
+	border-color: #fff;
+}
+
+
+/*Admin Home*/
+.data{
+    background-color:#fff;
+    border-radius:2px;
+    padding:50px;
+}
+
+.child-data{
+    background-color:#fff;
+    border-radius:2px;
+    padding:50px;
+}
+
+.donor-data{
+    background-color:#fff;
+    border-radius:2px;
+    padding:50px;
+}
